@@ -1,10 +1,10 @@
 <h3 align="center">Dev</h3>
 
-- 🔭currently working on [Bug Tracker](https://github.com/Jvn-alt/Bug-Tracker)
+- Currently working on [Bug Tracker](https://github.com/Jvn-alt/Bug-Tracker)
 
-- Currently Learning **ML related stuff**
+- Doing **Bachelors in Computer Applications**
 
-- 👨‍💻my projects are available at [https://github.com/Jvn-alt](https://github.com/Jvn-alt)
+- My projects (recently started) [https://github.com/Jvn-alt](https://github.com/Jvn-alt)
 
 - Wanna reach me? **jvn072@gmail.com**
 
